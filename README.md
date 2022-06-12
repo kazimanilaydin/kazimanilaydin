@@ -11,6 +11,7 @@
 </div>
 
 <div>
+    
 ```javascript
 const PROFILE = {
     name: "Kazım Anıl Aydın",
