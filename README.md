@@ -5,7 +5,7 @@
     <br />
     <samp> <i> I'm K. Anıl from Turkey </i> </samp> <br />
     <samp> 👨‍💻 <i> a Coder, an Entrepreneur, an Engineer. </i> </samp> <br />
-    <samp> 🐞 <i> The harder I go, The stronger I get. </i> </samp> <br />
+    <samp> 👻 ∂єѕ𝒾ɠи yσυя ωαy </samp> <br />
     <br />
     <br />
 </div>
